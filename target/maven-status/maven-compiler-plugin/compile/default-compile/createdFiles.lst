@@ -1,0 +1,13 @@
+com\marinel\config\WebAppInitializer.class
+com\marinel\service\TodoItemServiceImpl.class
+com\marinel\controller\TodoItemController.class
+com\marinel\config\WebConfig.class
+com\marinel\model\TodoItem.class
+com\marinel\service\DemoService.class
+com\marinel\service\DemoServiceImpl.class
+com\marinel\service\TodoItemService.class
+com\marinel\model\TodoData.class
+com\marinel\util\Mappings.class
+com\marinel\util\ViewNames.class
+com\marinel\controller\DemoController.class
+com\marinel\util\AttributeNames.class
